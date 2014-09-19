@@ -3,6 +3,6 @@ package com.craftinagiffy
 class HelloController {
 
     def index() {
-        render "Hello World!"
+        render "Coming soon!"
     }
 }
