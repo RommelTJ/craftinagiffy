@@ -27,33 +27,19 @@
             <h3 class="text-muted">CRAFT IN A GIFFY</h3>
         </div>
 
-        <div class="jumbotron">
-            <h1>COMING SOON</h1>
-            <p class="lead">A clean, easy to use website that serves as a database for learning crafts.</p>
-            <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up today</a></p>
-        </div>
-
-        <div class="row marketing">
-            <div class="col-lg-6">
-                <h4>Knit</h4>
-                <p>Learn to knit!</p>
-
-                <h4>Crochet</h4>
-                <p>Learn to crochet!</p>
-
-                <h4>Jewelry</h4>
-                <p>Make some bling bling!</p>
+        <div class="row">
+            <div class="col-lg-10">
+                <div class="jumbotron">
+                    <h1>COMING SOON</h1>
+                    <p class="lead">A clean, easy to use website that serves as a database for learning crafts.</p>
+                    <p><a class="btn btn-lg btn-success" href="https://docs.google.com/forms/d/1f6Khk85MsvoQ2NY-6I86HC6Ky7-r2_XUgVcGM53G-Nw/viewform" role="button">Sign up today</a></p>
+                </div>
             </div>
-
-            <div class="col-lg-6">
-                <h4>Sew</h4>
-                <p>Do you have what it takes?</p>
-
-                <h4>Projects</h4>
-                <p>Many projects to do!</p>
-
-                <h4>Tutorials</h4>
-                <p>Smaller in scope but just as fun!</p>
+            <div class="col-lg-2">
+                <p><button type="button" class="btn btn-lg btn-primary btn-block">Knit</button></p>
+                <p><button type="button" class="btn btn-lg btn-primary btn-block">Sew</button>
+                <p><button type="button" class="btn btn-lg btn-primary btn-block">Crochet</button>
+                <p><button type="button" class="btn btn-lg btn-primary btn-block">Jewelry</button>
             </div>
         </div>
 
